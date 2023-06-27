@@ -36,5 +36,5 @@ developers but the idea is to develop more of these.
     Collaborative filtering shuffle
 
 This is an ever-growing list so feel free to reach out if you have 
-a more efficent solution or if you think something else should be 
+a more efficient solution or if you think something else should be 
 added to the list.
