@@ -1,4 +1,4 @@
-## shuffleAlgorithms
+## shuffleAlgorithmsKotlin
 
 ### List of Algorithms
 
